@@ -1,5 +1,5 @@
 function conv() {
-  var name = window.document.getElementById('Nome').value.toLowerCase().split(' ').join('_');
+  var name = window.document.getElementById('Nome').value.toLowerCase().split(' ').join('');
   var namae = '';
   for (var i=0; i<name.length; i++) {
     namae = namae + '<img src="assets/img/' + name[i] + '.svg" width="30">';
