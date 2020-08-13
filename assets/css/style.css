@@ -1,0 +1,22 @@
+div.title {
+    font-size: 30px;
+    text-align: center;
+}
+div{
+    color: whitesmoke;
+}
+div.inner{
+    position: static;
+    align-items: center;
+}
+body{
+    font-size: 22%;
+}
+html{
+    font-family: 'Montserrat';
+}
+#quadro {
+    border: 4px solid black;
+    width: 100%;
+    height: 32%;
+}

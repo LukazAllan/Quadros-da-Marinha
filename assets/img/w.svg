@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1080px"
+   height="1080px"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="w.svg">
+  <title
+     id="title6504">Bandeiras</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="481.62808"
+     inkscape:cy="731.17106"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs4518">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5271">
+      <rect
+         y="460.51196"
+         x="137.51082"
+         height="38.246277"
+         width="95.666519"
+         id="rect5273"
+         style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4.02519703;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6408">
+      <g
+         style="stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none"
+         id="use6410"
+         inkscape:label="Clip">
+        <rect
+           y="974.74371"
+           x="423.86697"
+           height="77.722687"
+           width="77.722679"
+           id="rect6473"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.96499997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata4521">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bandeiras</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="W"
+     style="display:inline">
+    <g
+       id="g5452"
+       transform="rotate(90,309.18887,603.80082)" />
+    <g
+       style="display:inline;opacity:0.95999995"
+       id="g6197"
+       transform="matrix(11.152992,0,0,11.152992,-6129.3341,-2087.5019)">
+      <rect
+         style="fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:1.14589977;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6178"
+         width="95.689102"
+         height="95.689102"
+         x="550.14154"
+         y="187.74263" />
+      <rect
+         y="208.79601"
+         x="571.19495"
+         height="53.582355"
+         width="53.582355"
+         id="rect6180"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.39753532;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="223.56636"
+         x="585.96527"
+         height="24.04163"
+         width="24.04163"
+         id="rect6189"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.12100005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
